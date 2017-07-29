@@ -3,7 +3,10 @@
 GraphV is a program writted in python to create and visualise collaboration graphs of universities. Data of eployees and their coauthors is based on science publications gathered from Google Scholar.
 ## Installation
 
-To open the program run the Main.py file with your python2.7 interpreter.
+To install all the necessary dependencies like graph-tool, matplotlib, sql-connector, cairo and numpy run 
+Dependencies Installer file:
+
+  sudo ./Dependencies_\ Installer
 
 If there is a problem with import errors, use PIP or apt-get command to install them.
 Graph Tool installation

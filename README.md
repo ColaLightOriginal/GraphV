@@ -1,6 +1,13 @@
 # GraphV
 
 GraphV is a program writted in python to create and visualise collaboration graphs of universities. Data of eployees and their coauthors is based on science publications gathered from Google Scholar.
+
+## Prerequisites
+
+Prerequisites to rune the program:
+* Python 2.7
+*MySql with MySql Workbench
+
 ## Installation
 
 To install all the necessary dependencies like graph-tool, matplotlib, sql-connector, cairo and numpy run 

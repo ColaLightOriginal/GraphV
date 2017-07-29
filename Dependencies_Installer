@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "Downloading graph-tool"
+apt-get install python-graph-tool
+echo "Graph-tool downloaded..."
+echp "Installing numpy..."
+apt-get install python-numpy
+echo "Numpy installed..."
+echo "Installing cairo..."
+apt-get install libcairo2-dev
+echo "Cairo installed..."
+echo "Installing matplotlib"
+apt-get install python-matplotlib
+echo "Matplotlib installed"
+echo "Installing MySQL connector"
+apt-get install python-mysql.connector
+echo "MySQL connector installed"
+echo "Done"

@@ -6,7 +6,7 @@ GraphV is a program writted in python to create and visualise collaboration grap
 To install all the necessary dependencies like graph-tool, matplotlib, sql-connector, cairo and numpy run 
 Dependencies Installer file:
 
-```sudo ./Dependencies_\ Installer```
+```sudo ./Dependencies_Installer```
 
 If there is a problem with import errors, use PIP or apt-get command to install them.
 Graph Tool installation

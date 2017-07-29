@@ -17,7 +17,7 @@ First add repository to source list:
 
 ```echo "deb-src http://downloads.skewed.de/apt/xenial xenial universe" >> /etc/apt/sources.list```
 
-And add a new public key:
+Add a new public key:
 ```apt-key adv --keyserver pgp.skewed.de --recv-key 612DEFB798507F25```
 
 After that, install all the necessary dependencies like graph-tool, matplotlib, sql-connector, cairo and numpy with 

@@ -1,7 +1,7 @@
-GraphV
+## GraphV
 
 GraphV is a program writted in python to create and visualise collaboration graphs of universities. Data of eployees and their coauthors is based on science publications gathered from Google Scholar.
-Installation
+# Installation
 
 To open the program run the Main.py file with your python2.7 interpreter.
 

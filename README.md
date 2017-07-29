@@ -22,6 +22,7 @@ To open the program use RUN file:
 * After You run the program connect with Your MySql database (button Connect).
 * Fill the fielfs: Database name (UMKnotPrecise) Username, Host, Password.
 * Wait a minute for graph to generate.
+* Program is ready to use
 
 ## Issues
 

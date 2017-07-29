@@ -21,6 +21,7 @@ To open the program use RUN file:
 * Import the databes files (UMKnotPrecise_coauthors.sql, UMKnotPrecise_employess) to Your MySql.
 * After You run the program connect with Your MySql database (button Connect).
 * Fill the fielfs: Database name (UMKnotPrecise) Username, Host, Password.
+* Wait a minute for graph to generate.
 
 ## Issues
 

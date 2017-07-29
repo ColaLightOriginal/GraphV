@@ -12,8 +12,8 @@ Prerequisites to rune the program:
 ## Installation
 
 First add repository to source list:
-``` echo "deb http://downloads.skewed.de/apt/xenial xenial universe" >> /etc/apt/sources.list
-    echo "deb-src http://downloads.skewed.de/apt/xenial xenial universe" >> /etc/apt/sources.list```
+``` echo "deb http://downloads.skewed.de/apt/xenial xenial universe" >> /etc/apt/sources.list```
+ ```echo "deb-src http://downloads.skewed.de/apt/xenial xenial universe" >> /etc/apt/sources.list```
 
 And add a new public key:
 ```apt-key adv --keyserver pgp.skewed.de --recv-key 612DEFB798507F25```

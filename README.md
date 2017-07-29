@@ -5,8 +5,9 @@ GraphV is a program writted in python to create and visualise collaboration grap
 ## Prerequisites
 
 Prerequisites to rune the program:
+* Ubuntu OS
 * Python 2.7
-*MySql with MySql Workbench
+* MySql with MySql Workbench
 
 ## Installation
 

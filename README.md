@@ -9,26 +9,23 @@ Dependencies Installer file:
 ```sudo ./Dependencies_Installer```
 
 If there is a problem with import errors, use PIP or apt-get command to install them.
-Graph Tool installation
 
-For Ubuntu, add the following lines in /etc/apt/sources.list :
+## Run
 
-deb http://downloads.skewed.de/apt/DISTRIBUTION DISTRIBUTION universe
-deb-src http://downloads.skewed.de/apt/DISTRIBUTION DISTRIBUTION universe
+To open the program use RUN file:
 
-where DISTRIBUTION can be any one of xenial, yakkety, zesty After running apt-get update, the package can be installed with
-
-apt-get install python-graph-tool
-
-If you want to verify the packages, you should use the public key 612DEFB798507F25, which can be done with the command:
-
-apt-key adv --keyserver pgp.skewed.de --recv-key 612DEFB798507F25
+```./RUN```
 
 ## Usage
 
-Import the databes (You can find it in Resources) to Your MySql.
+* Import the databes files (UMKnotPrecise_coauthors.sql, UMKnotPrecise_employess) to Your MySql.
+* After You run the program connect with Your MySql database (button Connect).
+* Fill the fielfs: Database name (UMKnotPrecise) Username, Host, Password.
 
-After You run the program connect with Your MySql database with Your imported database.
+## Issues
+
+On the Widget window there is a problem with render after using a scroll. To see all the edges and nodes after You use scroll, use the filter option '=1'. 
+
 ## Contributing
 
 Fork it!

@@ -43,7 +43,7 @@ To open the program use RUN file:
 
 ## Issues
 
-On the Widget window there is a problem with render after using a scroll. To see all the edges and nodes after You use scroll, use the filter option '=1'. 
+On the Widget window there is a problem with render after using a scroll. To see all the edges and nodes after You use scroll, click ont the filter option '=1'. 
 
 ## Contributing
 
